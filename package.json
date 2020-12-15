@@ -1,12 +1,12 @@
 {
-  "name": "final-001",
+  "name": "final-004",
   "version": "1.0.0",
   "engines": {
     "node": "10.19.0"
   },
   "main": "index.js",
-  "repository": "https://github.com/flatdragon/final-001.git",
-  "author": "Andrew Kochetygov",
+  "repository": "https://github.com/Lazarenko-Alexandr/week4.git",
+  "author": "Alexandr Lazarenko",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
