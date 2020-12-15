@@ -1,5 +1,5 @@
 require('http').Server((req, res) => {
-  const author = 'itmo282167'
+  const author = 'itmo287666'
 
   res.setHeader('X-Author', author)
   res.setHeader('Content-Type', 'application/json')
