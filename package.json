@@ -5,7 +5,7 @@
     "node": "10.19.0"
   },
   "main": "index.js",
-  "repository": "https://github.com/Lazarenko-Alexandr/week4.git",
+  "repository": "https://github.com/Lazarenko-Alexandr/week3.git",
   "author": "Alexandr Lazarenko",
   "license": "MIT",
   "scripts": {
